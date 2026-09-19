@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#病理生理",
+      "color": {
+        "a": 1,
+        "rgb": 14048605
+      }
+    },
+    {
+      "query": "tag:#影像征象",
+      "color": {
+        "a": 1,
+        "rgb": 4037531
+      }
+    },
+    {
+      "query": "tag:#检验指标",
+      "color": {
+        "a": 1,
+        "rgb": 14723390
+      }
+    },
+    {
+      "query": "tag:#处置策略",
+      "color": {
+        "a": 1,
+        "rgb": 6267743
+      }
+    },
+    {
+      "query": "tag:#预后结局",
+      "color": {
+        "a": 1,
+        "rgb": 11893682
+      }
+    },
+    {
+      "query": "tag:#方法学",
+      "color": {
+        "a": 1,
+        "rgb": 8026041
+      }
+    },
+    {
+      "query": "tag:#诊断技术",
+      "color": {
+        "a": 1,
+        "rgb": 4884168
+      }
+    },
+    {
+      "query": "tag:#指南机构",
+      "color": {
+        "a": 1,
+        "rgb": 13073215
+      }
+    },
+    {
+      "query": "path:01_指南",
+      "color": {
+        "a": 1,
+        "rgb": 14710870
+      }
+    },
+    {
+      "query": "path:02_文献",
+      "color": {
+        "a": 1,
+        "rgb": 6986712
+      }
+    },
+    {
+      "query": "path:04_全文",
+      "color": {
+        "a": 1,
+        "rgb": 10134961
+      }
+    },
+    {
+      "query": "path:00_导航",
+      "color": {
+        "a": 1,
+        "rgb": 15911244
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 240,
+  "scale": 4.070095084634049,
+  "close": false
+}
