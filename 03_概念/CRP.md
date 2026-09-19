@@ -1,0 +1,17 @@
+---
+类型: 概念
+层级: 检验指标
+tags: [ASBO知识图谱, 概念, 检验指标]
+---
+# CRP
+
+**所属层级**：[[检验指标层MOC|检验指标]]
+
+## 相关指南（1）
+- [[33895628_Intestinal obstruction and ischemia by necrotic annular Me|Intestinal obstruction and ischemia by necrotic annular Meckel's diver]]
+
+## 相关文献（0）
+- （暂无）
+
+## 关联导航
+- 返回 [[00_总览MOC]] · [[检验指标层MOC]]
