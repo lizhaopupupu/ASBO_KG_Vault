@@ -1,0 +1,61 @@
+# WSES-AAST guidelines: management of inflammatory bowel disease in the emergency setting.
+
+> PMC 开放获取全文（PMC8111988），对应文献笔记：[[33971899_WSES-AAST guidelines management of inflammatory bowel dise]]
+
+## Background
+
+Despite the current therapeutic options for the treatment of inflammatory bowel disease, surgery is still frequently required in the emergency setting, although the number of cases performed seems to have decreased in recent years.
+
+The World Society of Emergency Surgery decided to debate in a consensus conference of experts, the main pertinent issues around the management of inflammatory bowel disease in the emergent situation, with the need to provide focused guidelines for acute care and emergency surgeons.
+
+## Method
+
+A group of experienced surgeons and gastroenterologists were nominated to develop the topics assigned and answer the questions addressed by the Steering Committee of the project. Each expert followed a precise analysis and grading of the studies selected for review. Statements and recommendations were discussed and voted at the Consensus Conference of the 6th World Society of Emergency Surgery held in Nijmegen (The Netherlands) in June 2019.
+
+## Conclusions
+
+Complicated inflammatory bowel disease requires a multidisciplinary approach because of the complexity of this patient group and disease spectrum in the emergency setting, with the aim of obtaining safe surgery with good functional outcomes and a decreasing stoma rate where appropriate.
+
+## Keywords
+
+## Background
+
+Inflammatory bowel disease (IBD) encompasses a group of chronic inflammatory disorders comprising most commonly of ulcerative colitis (UC) and Crohn’s disease (CD). The incidence of IBD appears to be rising in recent decades. Ng et al. [1] reported that the highest prevalence values were in Europe (UC 505 per 100 000 in Norway; CD 322 per 100 000 in Germany) and North America (UC 286 per 100 000 in the USA; CD 319 per 100 000 in Canada). The prevalence of IBD exceeded 0.3% in North America, Oceania, and many countries in Europe. Overall, the majority of studies on CD and UC report stable or decreasing incidence of IBD in North America and Europe. Since 1990, the incidence has been rising in newly industrialized countries in Africa, Asia, and South America, including Brazil [1]. The overall incidence of UC in Europe, North America, and Oceania is independent of gender. In CD, less consistent findings have been reported, with some cohorts suggesting a female predominance in the incidence of CD and others failing to find any gender difference. Differences in gender-specific incidence exist, with a female predominance in CD in western populations and a male predominance in eastern studies. No gender differences were found in UC [2].
+
+IBD typically manifests in the 2nd or 3rd decade of life. Although their pathogenesis is still unclear, it is hypothesized that chronic intestinal inflammation originates from an overly aggressive mucosal immune response against luminal bacteria in genetically susceptible subjects.
+
+CD is characterized by transmural inflammation that can occur in the entire gastrointestinal (GI) tract and common localizations include the terminal ileum and colon. Due to the transmural inflammation, complications may present such as abscesses and fistulas.
+
+In contrast, UC demonstrates mucosal inflammation and typically starts distally in the rectum, showing progression towards the more proximal colon. The disease will mostly be limited to the colon and ileal involvement is rare (backwash ileitis).
+
+Diagnosis of IBD is generally made by assessment of symptoms, biochemical markers, and colonoscopy combined with radiology and histology. The different phenotypes of IBD share common clinical features but may have a heterogeneous presentation which includes abdominal pain, vomiting, diarrhea, rectal bleeding, weight loss, and anemia. Extra-intestinal manifestations such as arthritis, skin disorders, and uveitis may also be present.
+
+IBD is chronic and potentially disabling, frequently leading to hospitalizations, lower quality of life and inability to work, with a substantial socio-economic impact [3].
+
+IBD management aims to achieve induction of remission, followed by maintenance therapy to prevent recurrent disease flares.
+
+IBD therapy is tailored and the choice of the treatment regimen depends on several factors including the type, distribution, and disease severity, as well as co-morbidity and patient preferences. Generally, depending on the level of severity, most patients with CD and to a lesser extent those with UC will require immunosuppression to control intestinal inflammation. Conventional immunosuppressive therapies include azathioprine, 6-mercaptopurine, methotrexate, and 6-thioguanine. These therapies may be necessary for many years, particularly given the incurable nature of CD.
+
+In case of insufficient response to immunosuppressive treatment, or in case of intolerance, biologics are the next line of therapy in a step-up approach. Different mechanisms are currently available. Anti-TNF such as infliximab, adalimumab, and golimumab are available and usually the first biologic that is prescribed due to the lower costs since the introduction of biosimilars and good effectiveness/safety profile. Next line biologicals include vedolizumab (anti-integrin), preventing leukocyte homing to the gut, and ustekinumab for CD blocking the interleukin 12/23 pathway. Recently, tofacitinib was approved for the treatment of UC, which is a JAK inhibitor and belongs to the group of small molecules.
+
+Despite the current therapeutic arsenal for the treatment of IBD, surgery is still frequently required although the number of cases performed seems to have decreased in recent years. It is reported that the risk of first CD surgery after 10 years of disease decreased from 44 to 21% in the last 2 decades in the UK [4], with the risk of a second resection decreasing from 40 to 17%. This is likely due to the introduction of anti-TNF therapy, as well as improved multidisciplinary IBD management aiding this development.
+
+Similarly, colectomy rates in UC decreased in a prospective Swiss cohort and the 5-, 10-, 15-, and 20-year cumulative colectomy rates after diagnosis were 4.1%, 6.4%, 10.4%, and 14.4%, respectively [5]. Interestingly, the vast majority of colectomies took place within the first 10 years since diagnosis.
+
+The improved outcomes for patients with CD are further reflected in recent studies. For example, the population-based cohort of South-Limburg (The Netherlands) showed that hospitalization rate reduced from 65.9% to 44.2% and the surgery rate from 42.9 to 17.4% at 5 years, respectively (both P<0.01) [6]. However, patients with CD still show progression towards a complicated phenotype. This is characterized by the formation of stenosis (stricturing phenotype) or abscess/fistula (penetrating phenotype). In contrast, patients who do not progress over time towards these phenotypes are considered “inflammatory phenotype.” The latter study showed that the rate of progression towards penetrating or stricturing phenotype was around 21% in the 1990s and this rate did not change until 2011 when 2 different time cohorts were analyzed. In contrast, the rate of immunosuppression increased from 30 to 70%, and biologic use from 3 to 41%.
+
+Thus, despite improved IBD management and decreasing surgical rates, patients with complicated IBD continue to present with acute complications requiring admission for emergency care. This is in part explained by the progression towards a complicated phenotype (structuring or penetrating phenotype). Secondly, patients have more therapeutic options and continue to be treated with available biologics. When failure of biologic therapy occurs, patients are usually more refractory and prone to requiring hospitalization and surgery. Toxic colitis with or without megacolon, massive hemorrhage, free perforation, an acute abscess (either intra-abdominal or perianal) with sepsis, and intestinal obstruction are examples of acute surgical emergencies [7].
+
+CD can present with acute complications requiring emergency surgery in approximately 6–16% of cases [8]. In acute severe UC, intravenous corticosteroids remain the cornerstone of medical therapy but about 30% of patients do not respond to corticosteroids. After failing 3–5 days of corticosteroids, patients should be considered for second line medical therapy in the form of cyclosporine or anti-TNF therapy, as well as consideration and counselling for colectomy.
+
+Complicated IBD requires a multidisciplinary approach because of the complexity of this group of patients. The management of IBD is very well established in the elective setting but is still unclear in the urgent/emergency setting with a lot of grey areas and a highly variable quality of management in the lack of established consensus and guidelines that could lead to poor overall and functional outcomes.
+
+The World Society of Emergency Surgery (WSES) decided to debate in a consensus conference of experts in the fields, the main issues pertinent to the management of IBD in the emergent situation, with the need to provide a focused guide for acute care and emergency surgeons.
+
+## Materials and methods
+
+During the 2018 WSES congress, the Scientific Board of the WSES expressed the necessity to address the lack of guidelines about the management of IBD in the emergency setting, to improve outcomes, decreasing morbidity, and mortality correlated to the emergency treatment of these chronic and complex diseases.
+
+A group of experienced surgeons and gastroenterologists were nominated to develop the topics assigned and answer the questions addressed by the Steering Committee (SC) of the project. The main topics debated are summarised in the Table 1. The scientific coordinator of the WSES IBD Guidelines supervised each step of literature searching, study selection, and the final presentation of evidence. Table 1Summary of topics and PICO questionsTopicQuestionCombination of wordsInitial assessment and DiagnosisQ.1: In patients with suspected complicated IBD, which are the appropriate biochemical investigations that should be performed?“Crohn”, “Ulcerative colitis”, “abdominal pain”, “emergency”, “biochemical”, “laboratory”, “markers”, “investigation”; “test”; “metabolic panel”Initial assessment and DiagnosisQ.2: In patients with a suspected complicated IBD, which are the appropriate imaging studies that should be performed in the emergency setting?“Crohn”; “Ulcerative colitis”; “emergency”; “radiology”; “computed tomography”; magnetic resonance”; ultrasonography”; “peritonitis”; abscess”; “occlusion”Non operative management and preoperative assessmentQ.3: Which is the role of interventional radiology in the management of intra-abdominal abscesses related to Crohn’s disease in the emergency setting?“Crohn"; “abscess”; “stricture”; “drainage”; “antibiotics”; “surgery”; “emergency”; “ulcerative colitis”Preoperative managementQ.4: In patients presenting with complications related to IBD, what is the appropriate medical treatment and nutritional support?-The role of medical treatment and management of specific IBD drugs-The role of nutritional support“Crohn”; "Ulcerative Colitis"; Nutritional support”; “immunosuppression”; “steroids”; “biologics”; “medical treatment” antibiotics”; “emergency”; “preoperative”; “postoperative”; “surgery” Non-operative vs Operative managementClinical setting:-Acute severe ulcerative colitis;-Toxic megacolon;-Uncontrolled bleeding;-Free perforation;-Intestinal obstructionQ.5: What are the indications for emergency surgery in patients presenting with complications related to IBD?“Crohn”; "ulcerative colitis”; “toxic megacolon”; “upper gastrointestinal bleeding”;”peritonitis”; “perforation”; “occlusion”; “obstruction”;”emergency”; “surgery”; “indications”;”radiolology”;”angio-embolisation”; “computed tomography”;”angiography”, "lower gastrointestinal bleeding", "non operative management"Surgical managementQ.6: Which surgical approach is recommended for complicated IBD in the emergency setting?“Acute severe ulcerative colitis”; “intestinal b
+
+……（全文较长，此处截取前 12000 字符）
